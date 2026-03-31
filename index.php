@@ -1,2 +1,2 @@
 <?php
-echo "Bot is running ✅";
+echo "Bot is running 🚀";
